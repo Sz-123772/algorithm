@@ -1,0 +1,6 @@
+git init #创建.git文件
+git add xxx #将xxx放入缓冲区
+git commit -m "xxx" #将缓冲区提交仓库
+git remote add "xxx" "http://xxxx" #将远程仓库命名为xxx
+git branch "xxx" #创建新分支xxx
+git push [-u origin main] #提交远程
