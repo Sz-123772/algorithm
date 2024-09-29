@@ -1,1 +1,1 @@
-### cc老师备课使用
+### Algorithm for Accer!
